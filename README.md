@@ -13,33 +13,20 @@ Read the author’s official statement regarding the release and intentions:
 
 ---
 
-## 📚 Papers
+## 📚 Papers/🔗 DOI Reference Table
 
-| # | Title | PDF |
-|--|-------------------------------|------|
-| 1 | ABC Conjecture | [📄 PDF](./pdf/ABC_Conjecture_Fold_Proof_H_Tsuchiya_2025.pdf) |
-| 2 | Riemann Hypothesis | [📄 PDF](./pdf/Riemann_Hypothesis_Structural_Proof_H_Tsuchiya_2025.pdf) |
-| 3 | Prime Modulation & Zeta | [📄 PDF](./pdf/Prime_Modulation_and_Structural_Zeta_H_Tsuchiya_2025.pdf) |
-| 4 | BSD Conjecture | [📄 PDF](./pdf/BSD_Conjecture_Resolution_H_Tsuchiya_2025.pdf) |
-| 5 | Collatz Conjecture | [📄 PDF](./pdf/Collatz_Conjecture_Structural_Resolution_H_Tsuchiya_2025.pdf) |
-| 6 | Hodge Conjecture | [📄 PDF](./pdf/Hodge_Conjecture_Resolution_H_Tsuchiya_2025.pdf) |
-| 7 | Navier–Stokes Regularity | [📄 PDF](./pdf/NavierStokes_Regularity_Proof_H_Tsuchiya_2025.pdf) |
-| 8 | P vs NP | [📄 PDF](./pdf/P_vs_NP_Structural_Proof_H_Tsuchiya_2025.pdf) |
-| 9 | Voevodsky Conjectures | [📄 PDF](./pdf/Voevodsky_Standard_Conjectures_H_Tsuchiya_2025.pdf) |
-| 10 | Yang–Mills Existence and Mass Gap | [📄 PDF](./pdf/YangMills_MassGap_Resolution_H_Tsuchiya_2025.pdf) |
-
-| Title | PDF | DOI |
-|-------|-----|-----|
-|   url          = {https://doi.org/10.5281/zenodo.15600875} | [}](./pdf/}) | [DOI Link](Tsuchiya) |
-|   url          = {https://doi.org/10.5281/zenodo.15601019} | [}](./pdf/}) | [DOI Link](Tsuchiya) |
-|   url          = {https://doi.org/10.5281/zenodo.15601090} | [}](./pdf/}) | [DOI Link](Tsuchiya) |
-|   url          = {https://doi.org/10.5281/zenodo.15601168} | [}](./pdf/}) | [DOI Link](Tsuchiya) |
-|   url          = {https://doi.org/10.5281/zenodo.15601223} | [}](./pdf/}) | [DOI Link](Hiroshi) |
-|   url          = {https://doi.org/10.5281/zenodo.15601330} | [}](./pdf/}) | [DOI Link](Tsuchiya) |
-|   url          = {https://doi.org/10.5281/zenodo.15601415} | [}](./pdf/}) | [DOI Link](Tsuchiya) |
-|   url          = {https://doi.org/10.5281/zenodo.15601445} | [}](./pdf/}) | [DOI Link](Tsuchiya) |
-|   url          = {https://doi.org/10.5281/zenodo.15601482} | [}](./pdf/}) | [DOI Link](Tsuchiya) |
-|   url          = {https://doi.org/10.5281/zenodo.15601543} | [}](./pdf/}) | [DOI Link](Tsuchiya) |
+| # | Title | PDF | DOI |
+|--|-------------------------------|------|-----|
+| 1 | ABC Conjecture | [📄 PDF](./pdf/ABC_Conjecture_Fold_Proof_H_Tsuchiya_2025.pdf) | [DOI Link](Tsuchiya) |
+| 2 | Riemann Hypothesis | [📄 PDF](./pdf/Riemann_Hypothesis_Structural_Proof_H_Tsuchiya_2025.pdf) | [DOI Link](Tsuchiya) |
+| 3 | Prime Modulation & Zeta | [📄 PDF](./pdf/Prime_Modulation_and_Structural_Zeta_H_Tsuchiya_2025.pdf) | [DOI Link](Tsuchiya) |
+| 4 | BSD Conjecture | [📄 PDF](./pdf/BSD_Conjecture_Resolution_H_Tsuchiya_2025.pdf) | [DOI Link](Tsuchiya) |
+| 5 | Collatz Conjecture | [📄 PDF](./pdf/Collatz_Conjecture_Structural_Resolution_H_Tsuchiya_2025.pdf) | [DOI Link](Hiroshi) |
+| 6 | Hodge Conjecture | [📄 PDF](./pdf/Hodge_Conjecture_Resolution_H_Tsuchiya_2025.pdf) | [DOI Link](Tsuchiya) |
+| 7 | Navier–Stokes Regularity | [📄 PDF](./pdf/NavierStokes_Regularity_Proof_H_Tsuchiya_2025.pdf) | [DOI Link](Tsuchiya) |
+| 8 | P vs NP | [📄 PDF](./pdf/P_vs_NP_Structural_Proof_H_Tsuchiya_2025.pdf) | [DOI Link](Tsuchiya) |
+| 9 | Voevodsky Conjectures | [📄 PDF](./pdf/Voevodsky_Standard_Conjectures_H_Tsuchiya_2025.pdf) | [DOI Link](Tsuchiya) |
+| 10 | Yang–Mills Existence and Mass Gap | [📄 PDF](./pdf/YangMills_MassGap_Resolution_H_Tsuchiya_2025.pdf) | [DOI Link](Tsuchiya) |
 
 ---
 
