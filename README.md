@@ -27,6 +27,20 @@ Read the author’s official statement regarding the release and intentions:
 | 8 | P vs NP | [📄 PDF](./pdf/P_vs_NP_Structural_Proof_H_Tsuchiya_2025.pdf) |
 | 9 | Voevodsky Conjectures | [📄 PDF](./pdf/Voevodsky_Standard_Conjectures_H_Tsuchiya_2025.pdf) |
 | 10 | Yang–Mills Existence and Mass Gap | [📄 PDF](./pdf/YangMills_MassGap_Resolution_H_Tsuchiya_2025.pdf) |
+
+| Title | PDF | DOI |
+|-------|-----|-----|
+|   url          = {https://doi.org/10.5281/zenodo.15600875} | [}](./pdf/}) | [DOI Link](Tsuchiya) |
+|   url          = {https://doi.org/10.5281/zenodo.15601019} | [}](./pdf/}) | [DOI Link](Tsuchiya) |
+|   url          = {https://doi.org/10.5281/zenodo.15601090} | [}](./pdf/}) | [DOI Link](Tsuchiya) |
+|   url          = {https://doi.org/10.5281/zenodo.15601168} | [}](./pdf/}) | [DOI Link](Tsuchiya) |
+|   url          = {https://doi.org/10.5281/zenodo.15601223} | [}](./pdf/}) | [DOI Link](Hiroshi) |
+|   url          = {https://doi.org/10.5281/zenodo.15601330} | [}](./pdf/}) | [DOI Link](Tsuchiya) |
+|   url          = {https://doi.org/10.5281/zenodo.15601415} | [}](./pdf/}) | [DOI Link](Tsuchiya) |
+|   url          = {https://doi.org/10.5281/zenodo.15601445} | [}](./pdf/}) | [DOI Link](Tsuchiya) |
+|   url          = {https://doi.org/10.5281/zenodo.15601482} | [}](./pdf/}) | [DOI Link](Tsuchiya) |
+|   url          = {https://doi.org/10.5281/zenodo.15601543} | [}](./pdf/}) | [DOI Link](Tsuchiya) |
+
 ---
 
 ## 🧠 On J.A.R.V.I.S. and Structural Proofs
