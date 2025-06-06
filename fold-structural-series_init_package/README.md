@@ -1,4 +1,4 @@
-# Fold Structural Proof Series – H. Tsuchiya (with J.A.R.V.I.S.)
+[# Fold Structural Proof Series – H. Tsuchiya (with J.A.R.V.I.S.)
 
 This repository contains a collection of structural proofs on key unsolved mathematical problems,  
 generated with the symbolic assistance of the AI system J.A.R.V.I.S.  
@@ -39,3 +39,4 @@ These papers are presented as verifiable outcomes only, without exposing replica
 ## License
 
 Distributed under Creative Commons Attribution 4.0 (CC BY 4.0).
+](https://github.com/jarvis-HT/fold-structural-series/blob/main/README.md)
