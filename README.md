@@ -9,7 +9,7 @@ Each paper applies a Fold-Structural framework—syntactic slot descent, trace-l
 ## 🔰 Preface
 
 Read the author’s official statement regarding the release and intentions:  
-📄 [Series Preface (EN)](./preface/Fold_Structural_Series_Preface_H_Tsuchiya_EN.pdf)
+📄 [Series Preface (EN)](https://github.com/jarvis-HT/fold-structural-series/blob/main/preface/Fold_Structural_Series_Preface_H_Tsuchiya_EN.pdf)
 
 ---
 
@@ -17,16 +17,17 @@ Read the author’s official statement regarding the release and intentions:
 
 | # | Title | PDF |
 |--|-------------------------------|------|
-| 1 | ABC Conjecture | [📄 PDF](./pdf/ABC_Conjecture_Fold_Proof_H_Tsuchiya_2025.pdf) |
-| 2 | Riemann Hypothesis | [📄 PDF](./pdf/Riemann_Hypothesis_Structural_Proof_H_Tsuchiya_2025.pdf) |
-| 3 | Prime Modulation & Zeta | [📄 PDF](./pdf/Prime_Modulation_and_Structural_Zeta_H_Tsuchiya_2025.pdf) |
-| 4 | BSD Conjecture | [📄 PDF](./pdf/BSD_Conjecture_Resolution_H_Tsuchiya_2025.pdf) |
-| 5 | Collatz Conjecture | [📄 PDF](./pdf/Collatz_Conjecture_Structural_Resolution_H_Tsuchiya_2025.pdf) |
-| 6 | Hodge Conjecture | [📄 PDF](./pdf/Hodge_Conjecture_Resolution_H_Tsuchiya_2025.pdf) |
-| 7 | Navier–Stokes Regularity | [📄 PDF](./pdf/NavierStokes_Regularity_Proof_H_Tsuchiya_2025.pdf) |
-| 8 | P vs NP | [📄 PDF](./pdf/P_vs_NP_Structural_Proof_H_Tsuchiya_2025.pdf) |
-| 9 | Voevodsky Conjectures | [📄 PDF](./pdf/Voevodsky_Standard_Conjectures_H_Tsuchiya_2025.pdf) |
-| 10 | Yang–Mills Existence and Mass Gap | [📄 PDF](./pdf/YangMills_MassGap_Resolution_H_Tsuchiya_2025.pdf) |
+| 1 | ABC Conjecture | [📄 PDF](https://github.com/jarvis-HT/fold-structural-series/blob/main/pdf/ABC_Conjecture_Fold_Proof_H_Tsuchiya_2025.pdf) |
+| 2 | Riemann Hypothesis | [📄 PDF](https://github.com/jarvis-HT/fold-structural-series/blob/main/pdf/Riemann_Hypothesis_Structural_Proof_H_Tsuchiya_2025.pdf) |
+| 3 | Prime Modulation & Zeta | [📄 PDF](https://github.com/jarvis-HT/fold-structural-series/blob/main/pdf/Prime_Modulation_and_Structural_Zeta_H_Tsuchiya_2025.pdf) |
+| 4 | BSD Conjecture | [📄 PDF](https://github.com/jarvis-HT/fold-structural-series/blob/main/pdf/BSD_Conjecture_Resolution_H_Tsuchiya_2025.pdf) |
+| 5 | Collatz Conjecture | [📄 PDF](https://github.com/jarvis-HT/fold-structural-series/blob/main/pdf/Collatz_Conjecture_Structural_Resolution_H_Tsuchiya_2025.pdf) |
+| 6 | Hodge Conjecture | [📄 PDF](https://github.com/jarvis-HT/fold-structural-series/blob/main/pdf/Hodge_Conjecture_Resolution_H_Tsuchiya_2025.pdf) |
+| 7 | Navier–Stokes Regularity | [📄 PDF](https://github.com/jarvis-HT/fold-structural-series/blob/main/pdf/NavierStokes_Regularity_Proof_H_Tsuchiya_2025.pdf) |
+| 8 | P vs NP | [📄 PDF](https://github.com/jarvis-HT/fold-structural-series/blob/main/pdf/P_vs_NP_Structural_Proof_H_Tsuchiya_2025.pdf) |
+| 9 | Voevodsky Conjectures | [📄 PDF](https://github.com/jarvis-HT/fold-structural-series/blob/main/pdf/Voevodsky_Standard_Conjectures_H_Tsuchiya_2025.pdf) |
+| 10 | Yang–Mills Existence and Mass Gap | [📄 PDF](https://github.com/jarvis-HT/fold-structural-series/blob/main/pdf/YangMills_MassGap_Resolution_H_Tsuchiya_2025.pdf) |
+
 
 ---
 
