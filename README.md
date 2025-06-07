@@ -5,12 +5,6 @@ generated with the symbolic assistance of the AI system J.A.R.V.I.S.
 Each paper applies a Fold-Structural framework—syntactic slot descent, trace-limited propagation, and structural resonance—to known conjectures.
 
 ---
-
-## 🔰 Preface
-
-Read the author’s official statement regarding the release and intentions:  
-📄 [Series Preface (EN)](https://github.com/jarvis-HT/fold-structural-series/blob/main/preface/Fold_Structural_Series_Preface_H_Tsuchiya_EN.pdf)
-
 ---
 
 ## 📚 Papers
